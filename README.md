@@ -4,12 +4,12 @@
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="Reden" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Reden" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -20,8 +20,11 @@
 
 <br>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+
 </p>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -77,7 +80,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="Reden" /></p>
 
 <br>
 
