@@ -79,7 +79,8 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/z0diacc/z0diacc/386971973a639747055dc08288803c68388b4792/api.svg"
     alt="Reden" /></p>
 
 <br>
