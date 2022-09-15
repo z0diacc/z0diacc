@@ -12,9 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Reden" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **Discord: Reden#8317**
+- 🌱 I am currently interested in cyber security and software.
 
 - ⚡Fun fact :- Software and Music🎵 is a reason to live.
 
