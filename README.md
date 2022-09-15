@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Discord: Reden#8317**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡Fun fact :- Software and Music🎵 is a reason to live.
 
 <br>
 
